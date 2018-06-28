@@ -1,0 +1,16 @@
+A---and, as, assert
+B---break
+C---class,continue
+D---def,del
+E---elif,else,except
+F---finally,for,from,False
+G---global
+I---if,import,is,in
+L---lambda
+N---nonlocal,not,None
+O---or
+P---pass
+R---raise,return
+T---try,True
+W---while,with
+Y---yield
